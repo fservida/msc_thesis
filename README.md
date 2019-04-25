@@ -1,1 +1,1 @@
-# msc_thesis
+# Internet of Things: Traces, Vulnerabilities and Forensic Challenges
